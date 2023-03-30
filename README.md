@@ -13,16 +13,16 @@ my fb id 🔗https://www.facebook.com/iloveyou8647
 
 
 🌿installation here🌿
-🔗pkg update
-🔗pkg upgrade
-🔗pkg install python
-🔗pkg install python2
-🔗pkg install python3
-🔗pkg install git  
-🔗pkg install php
-🔗pip2 install wget
-🔗pip install bs4
-🔗pip2 install bs4
-🔗git clone https://github.com/Tech-With-Apurbo/File
-🔗cd File
-🔗python dump.py
+#pkg update
+#pkg upgrade
+#pkg install python
+#pkg install python2
+#pkg install python3
+#pkg install git  
+#pkg install php
+#pip2 install wget
+#pip install bs4
+#pip2 install bs4
+#git clone https://github.com/Tech-With-Apurbo/File
+#cd File
+#python dump.py
